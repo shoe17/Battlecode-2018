@@ -5,4 +5,4 @@ The turn-based game consisted of two planets, Earth and Mars. The player starts 
 
 Our team was new to this competition and in coding competitions in general. Our official placement was Top 48-64 out of hundreds of teams. Our highest unofficial rank was Top 10 during the scrimmaging and testing period. We took a different approach to other teams, and we tried to not follow the meta of all rangers and healers. We wanted to utilize our favorite unit type, the Knight, as the majority, alongside a few healers and rangers. In doing so we placed relatively high with our different strategy. We were one of very few in the top finishers, who used majority knights.
 
-For more detailed information and to see the API and all the source code they gave us that was too big to store visit [Battlecode.org](http://battlecode.org)
+For more detailed information and to see the API and all the source code they gave us that was too big to store, visit [Battlecode.org](http://battlecode.org)
